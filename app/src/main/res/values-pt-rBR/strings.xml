@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_joker_hint">Aqui sera exibida a piada</string>
+    <string name="contar_outra_piada">Contar outra piada</string>
+    <string name="button_new_joker">Contar outra piada</string>
+    <string name="joker_one">Por que a aranha é o animal mais carente do mundo?</string>
+    <string name="joker_two">Por que o pinheiro não se perde na floresta?</string>
+    <string name="joker_three">O que um pagodeiro foi fazer na igreja?</string>
+    <string name="joker_four">Por que o Napoleão era chamado sempre pras festas?</string>
+    <string name="joker_five">Qual é o rei dos queijos?</string>
+    <string name="joker_six">Qual é o rei dos queijos?</string>
+    <string name="joker_seven">Qual é o rei dos queijos?</string>
+</resources>
